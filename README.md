@@ -1,6 +1,6 @@
 # ToxicCommentDetector
 
-This is python project (mainly machine learning and data anylsis) 
+This is python project (mainly machine learning and data anylsis) and we can enhance the front end by using html,css and react.
 
 It provides an interface to user to upload his facebook post url with api,  So after that he will ablet to see the all comments under his post with the toxic percentage that each comment has with the user who made the comment
 
