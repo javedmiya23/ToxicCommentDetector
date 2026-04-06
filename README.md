@@ -10,4 +10,6 @@ Now, how can user get his API key so you just need to wach a 2-3 minute youtube 
 
 for your reference watch this https://youtu.be/hpWT-8gkyd8?si=XnzwQ69eGiG48u7i
 
-And you need to train a model with some data sets those i will pin them 
+And you need to train a model with some data sets those i will pin them.
+
+If you want better toxic comment detectibility use more datasets to train the model.
